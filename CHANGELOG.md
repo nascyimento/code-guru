@@ -22,6 +22,15 @@ Exceptions are acceptable depending on the circumstances (critical bug fixes tha
 
 ## [Unreleased]
 
+## [1.19.4] - 2026-10-14
+
+### Changed
+
+- changed the Go modules `github.com/Microsoft/go-winio` from `v0.6.2` to `v0.6.3` and `golang.org/x/net` from `v0.59.0` to `v0.61.0`
+- changed the Go modules `github.com/rios0rios0/cliforge` from `v0.4.7` to `v0.5.0`, `github.com/rios0rios0/langforge` from `v1.1.7` to `v1.1.8` and `github.com/rios0rios0/testkit` from `v0.3.4` to `v0.3.5`
+- changed the Go modules `golang.org/x/crypto` from `v0.57.0` to `v0.58.0`, `golang.org/x/mod` from `v0.41.0` to `v0.42.0` and `golang.org/x/sys` from `v0.48.0` to `v0.49.0`
+- changed the Go version from `1.27.1` to `1.27.2`
+
 ## [1.19.3] - 2026-10-07
 
 ### Changed
