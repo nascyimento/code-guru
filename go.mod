@@ -4,10 +4,10 @@ go 1.27.2
 
 require (
 	github.com/golang-jwt/jwt/v5 v5.3.1
-	github.com/rios0rios0/cliforge v0.5.0
-	github.com/rios0rios0/gitforge/v4 v4.2.10
-	github.com/rios0rios0/langforge v1.1.8
-	github.com/rios0rios0/testkit v0.3.5
+	github.com/rios0rios0/cliforge v0.5.1
+	github.com/rios0rios0/gitforge/v4 v4.2.11
+	github.com/rios0rios0/langforge v1.1.9
+	github.com/rios0rios0/testkit v0.3.6
 	github.com/sashabaranov/go-openai v1.43.0
 	github.com/sirupsen/logrus v1.10.2
 	github.com/spf13/cobra v1.10.2
@@ -19,7 +19,7 @@ require (
 require (
 	dario.cat/mergo v1.0.2 // indirect
 	github.com/Masterminds/semver/v3 v3.5.0 // indirect
-	github.com/Microsoft/go-winio v0.6.3 // indirect
+	github.com/Microsoft/go-winio v0.6.4 // indirect
 	github.com/ProtonMail/go-crypto v1.5.2 // indirect
 	github.com/cloudflare/circl v1.6.5 // indirect
 	github.com/cyphar/filepath-securejoin v0.7.0 // indirect
